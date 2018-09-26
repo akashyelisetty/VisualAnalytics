@@ -6,7 +6,7 @@
   "data": [
     {
       "name": "losses",
-      "url": "https://raw.githubusercontent.com/akhil514/Visual-Analytics/master/losses2015_transformed.csv",
+      "url": "https://raw.githubusercontent.com/akashyelisetty/VisualAnalytics/master/losses2015_transformed.csv",
       "format": {"type": "csv", "parse": "auto"},
       "transform": [{
   "type": "aggregate",
